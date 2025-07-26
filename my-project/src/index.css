@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+@keyframes colorChange {
+  0% {
+    border-color: #fff transparent transparent transparent;
+  }
+  25% {
+    border-color: #facc15 transparent transparent transparent;
+  }
+  50% {
+    border-color: #22d3ee transparent transparent transparent;
+  }
+  75% {
+    border-color: #f472b6 transparent transparent transparent;
+  }
+  100% {
+    border-color: #fff transparent transparent transparent;
+  }
+}
